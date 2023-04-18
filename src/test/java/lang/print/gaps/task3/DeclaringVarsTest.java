@@ -1,4 +1,4 @@
-package lang.print.gaps.task3;
+thirdpackage lang.print.gaps.task3;
 
 import base.BaseIOTest;
 import org.junit.jupiter.api.Test;
